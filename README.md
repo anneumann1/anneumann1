@@ -1,12 +1,12 @@
-#Hi there 👋 
+# Hi there 👋 
 
 
 ### Project overview
 
 |Project       |Status |completion date|
 |------        |------ |-------------- |
-|[Analysing accidents and bicycle accidents Infrastructure in Berlin I](https://github.com/CorrelAid/xberlin)|✅ | 09-2020|
-| [Analysing accidents and bicycle accidents Infrastructure in Berlin II](https://github.com/anneumann1/berlinbike)|🚧| -|
+|[Analysing accidents and bicycle Infrastructure in Berlin I](https://github.com/CorrelAid/xberlin)|✅ | 09-2020|
+| [Analysing accidents and bicycle Infrastructure in Berlin II](https://github.com/anneumann1/berlinbike)|🚧| -|
 | KOMUNAT Voting advice application|🚧| -|
 
 <!--
