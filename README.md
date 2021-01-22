@@ -2,8 +2,8 @@
 
 |Project       |Status |completion date|
 |------        |------ |-------------- |
-|[Analysing accidents and bicycle Infrastructure in Berlin I](https://github.com/CorrelAid/xberlin)|✅ | 09-2020|
-| [Analysing accidents and bicycle Infrastructure in Berlin II](https://github.com/anneumann1/berlinbike)|🚧| -|
+|[CorrelAid challenge I](https://github.com/CorrelAid/xberlin)|✅ | 09-2020|
+| [CorrelAid challenge II](https://github.com/anneumann1/berlinbike)|🚧| -|
 | KOMUNAT Voting advice application|🚧| -|
 
 <!--
