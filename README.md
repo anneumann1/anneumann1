@@ -6,7 +6,7 @@
 | [CorrelAid challenge II](https://github.com/anneumann1/berlinbike)|🚧|01-2021| -|
 |[Tidytuesday Challenge](https://correlaid.org/blog/potential-political-power/)|✅|08-2021|09-2021|
 |KOMUNAT Voting advice application|🚧|01-2020|10-2021|
-|Open Online Data Meetup (OODM)|✅|10-2021|11-2021
+|[Open Online Data Meetup (OODM)](https://github.com/anneumann1/OODM)|✅|10-2021|11-2021
 | VOTO Voting advice application|🚧|02-2021|-|
 
 
