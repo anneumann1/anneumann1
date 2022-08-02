@@ -2,7 +2,7 @@
 
 |Project       |Status |start date|completion date|
 |------        |------ |----------|-------------- |
-|[CorrelAid challenge I](https://github.com/CorrelAid/xberlin)|✅ |06-2020| 09-2020|
+|[CorrelAid challenge](https://github.com/CorrelAid/xberlin)|✅ |06-2020| 09-2020|
 |[Tidytuesday Challenge](https://correlaid.org/blog/potential-political-power/)|✅|08-2021|09-2021|
 |KOMUNAT Voting advice application|🚧|01-2020|10-2021|
 |[Open Online Data Meetup (OODM)](https://github.com/anneumann1/OODM)|✅|10-2021|11-2021|
